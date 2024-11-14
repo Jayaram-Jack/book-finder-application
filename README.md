@@ -24,7 +24,7 @@ To get started with Book Finder, follow these steps:
 
 1. _Clone the repository:_
    bash
-   git clone https://github.com/yourusername/book-finder.git
+   git clone https://github.com/Jayaram-Jack/book-finder-application.git
    cd Bookfinder-app
 2. **Install dependencies:**
    bash
